@@ -2,3 +2,5 @@ keylogs.txt
 read.md
 *.png
 main.spec
+build/
+dist/
