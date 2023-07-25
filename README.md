@@ -65,8 +65,5 @@ To use the keylogger, follow these steps:
 Feel free to modify and enhance this project according to your needs.
 
 Happy coding!
-<<<<<<< HEAD
+<br>
 <h3 align="center">Thamidu-Nadun<h3><br>
-=======
-<h3 align="center">Thamidu-Nadun<h3><br>
->>>>>>> a6a81df3d86f3f81e234ed9f69ede46eb9c35b3a
