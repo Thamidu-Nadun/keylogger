@@ -21,9 +21,10 @@ To use the keylogger, follow these steps:
 ## Automate The Programme
 
 1. Convert .py to .exe
-    shell: 
+    shell: ```
         **`pip install pyinstalller`**
         **`pyinstalller -F .\main.py`** 
+```
         -F = file
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
@@ -34,13 +35,17 @@ To use the keylogger, follow these steps:
     Create a new text file and save it with a .ps1 extension (e.g., myscript.ps1).
 
     powershell:
-        **`Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden`**
-        Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
+        **shell```Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden```**
+        Replace `"C:\path\to\your\file.exe"` with the actual path to your .exe file.
         <br>
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file3.png"><br>
     **Test the file:**
         :Open terminal in your DIR and type=>
-        `.\yourScriptName.ps1`<br><br>
+shell
+```
+        .\yourScriptName.ps1
+```
+<br><br>
 
 3. Move the .ps1 file to the Startup folder:
     Press Win + R to open the Run dialog box. Type **`shell:startup`** and hit Enter. This will open the Startup folder.
