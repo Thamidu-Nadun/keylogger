@@ -25,9 +25,9 @@ To use the keylogger, follow these steps:
         **`pip install pyinstalller`**
         **`pyinstalller -F .\main.py`** 
         -F = file
-    <img src="cmd.png">
-    <img src="file.png">
-    <img src="file2.png">
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file2.png">
     <br>
 
 2. Create a PowerShell script:
@@ -37,7 +37,7 @@ To use the keylogger, follow these steps:
         **`Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden`**
         Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
         <br>
-    <img src="file3.png"><br>
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file3.png"><br>
     **Test the file:**
         :Open terminal in your DIR and type=>
         `.\yourScriptName.ps1`<br><br>
@@ -45,13 +45,13 @@ To use the keylogger, follow these steps:
 3. Move the .ps1 file to the Startup folder:
     Press Win + R to open the Run dialog box. Type **`shell:startup`** and hit Enter. This will open the Startup folder.
     <br>
-    <img src="run.png"><br>
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/run.png"><br>
     
 
 4. Move the .ps1 file you created in step 2 into the Startup folder.<br><br>
 5. Open setting and verify it.
     <br>`Setting > Apps > Startup`<br>
-    <img src="app.png"><br>
+    <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/app.png"><br>
 ----------------------------------------------------------------
 ## Disclaimer
 
