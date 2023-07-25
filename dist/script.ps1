@@ -1,1 +1,0 @@
-Start-Process -FilePath "D:\Other\programming\python\keylogger\dist\main.exe" -WindowStyle Hidden
