@@ -34,7 +34,7 @@ To use the keylogger, follow these steps:
     Create a new text file and save it with a .ps1 extension (e.g., myscript.ps1).
 
 	```shell
-			Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden
+	Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden
 	```
 
 **Note**
