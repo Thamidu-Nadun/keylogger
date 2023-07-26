@@ -33,8 +33,11 @@ To use the keylogger, follow these steps:
 2. Create a PowerShell script:
     Create a new text file and save it with a .ps1 extension (e.g., myscript.ps1).
 
-```shell Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden ```
-        Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
+```shell
+Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden ```
+
+
+Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
         <br>
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file3.png"><br>
     **Test the file:**
