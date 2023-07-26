@@ -36,6 +36,7 @@ To use the keylogger, follow these steps:
 ```shell
 Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden ```
 
+**Note**
 
 Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
         <br>
