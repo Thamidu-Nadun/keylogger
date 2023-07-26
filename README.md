@@ -23,7 +23,8 @@ To use the keylogger, follow these steps:
 1. Convert .py to .exe
     ```shell
         pip install pyinstalller
-        pyinstalller -F .\main.py```
+        pyinstalller -F .\main.py
+```
  -F = file
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
@@ -33,9 +34,9 @@ To use the keylogger, follow these steps:
 2. Create a PowerShell script:
     Create a new text file and save it with a .ps1 extension (e.g., myscript.ps1).
 
-    powershell:
-        ```shell
-Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden```
+```shell
+Start-Process -FilePath "C:\path\to\your\file.exe" -WindowStyle Hidden
+```
         Replace `"C:\path\to\your\file.exe"` with the actual path to your .exe file.
         <br>
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file3.png"><br>
