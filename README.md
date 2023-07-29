@@ -24,7 +24,7 @@ To use the keylogger, follow these steps:
     ```shell
         pip install pyinstalller
         pyinstalller -F .\main.py
-			```
+    ```
  -F = file
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
