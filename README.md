@@ -26,6 +26,17 @@ To use the keylogger, follow these steps:
         pyinstalller -F .\main.py
     ```
  -F = file
+-D, --onedir
+Create a one-folder bundle containing an executable (default)
+
+-F, --onefile
+Create a one-file bundled executable.
+
+--specpath DIR
+Folder to store the generated spec file (default: current directory)
+
+-n NAME, --name NAME
+Name to assign to the bundled app and spec file (default: first script’s basename).
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file2.png">
