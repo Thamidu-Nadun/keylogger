@@ -25,12 +25,13 @@ To use the keylogger, follow these steps:
         pip install pyinstalller
         pyinstalller -F .\main.py
     ```
- -F = file
 -D, --onedir
 Create a one-folder bundle containing an executable (default)
 
 -F, --onefile
 Create a one-file bundled executable.
+
+-i Add a icon (.ico)
 
 --specpath DIR
 Folder to store the generated spec file (default: current directory)
