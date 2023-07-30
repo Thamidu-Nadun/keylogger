@@ -82,8 +82,7 @@ Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
 ## Acknowledgments
 
 - [pynput](https://pypi.org/project/pynput/) - The Python library used to monitor and control input devices.
--
-[pyinstalller](https://pyinstaller.org/)
+-[pyinstalller](https://pyinstaller.org/)
 -python library used for convert py to executable file.
 
 Feel free to modify and enhance this project according to your needs.
