@@ -38,6 +38,7 @@ Folder to store the generated spec file (default: current directory)
 
 -n NAME, --name NAME
 Name to assign to the bundled app and spec file (default: first script’s basename).
+<a href="https://pyinstaller.org/en/stable/usage.html#options">More options</a>
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/cmd.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file.png">
     <img src="https://github.com/Thamidu-Nadun/keylogger/blob/main/img/file2.png">
@@ -81,6 +82,9 @@ Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
 ## Acknowledgments
 
 - [pynput](https://pypi.org/project/pynput/) - The Python library used to monitor and control input devices.
+-
+[pyinstalller](https://pyinstaller.org/)
+-python library used for convert py to executable file.
 
 Feel free to modify and enhance this project according to your needs.
 
