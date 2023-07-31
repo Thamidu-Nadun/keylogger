@@ -3,5 +3,6 @@ read.md
 *.png
 main.spec
 test.txt
+note
 build/
 dist/
