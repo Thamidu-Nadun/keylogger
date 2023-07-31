@@ -87,6 +87,6 @@ Replace "C:\path\to\your\file.exe" with the actual path to your .exe file.
 
 Feel free to modify and enhance this project according to your needs.
 
-Happy coding!
-<br>
+Happy Coding!
+<br>If you enjoy this like and share with your friends.<br>
 <h3 align="center">Thamidu-Nadun<h3><br>
